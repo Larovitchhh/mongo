@@ -9,7 +9,7 @@ cache_dir = './.cache'
 contract_id = 'SP3FBR2AGK5H9QBDH3EEN6DF8EK8JY7RX8QJ5SVTE.sip-010-trait-ft-standard'
 
 [contracts.mongo]
-path = 'contracts/mmongo.clar'
+path = 'contracts/mongo.clar'
 clarity_version = 4
 epoch = "latest"
 
